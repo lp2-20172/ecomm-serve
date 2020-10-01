@@ -10,7 +10,7 @@ An utterly fantastic project starter template for Django 1.11.
 
 ## How to Use
 
-To use this project, follow these steps:
+To use this project, follow steps given below:
 
 1. Create your working environment.
 2. Install Django (`$ pip install django`)
@@ -41,7 +41,7 @@ See also, a [ready-made application](https://github.com/heroku/python-getting-st
 
 ## Using Python 2.7?
 
-Just update `runtime.txt` to `python-2.7.13` (no trailing spaces or newlines!).
+Just update `runtime.txt` with `python-2.7.13` (no trailing spaces or newlines!).
 
 
 ## License: MIT
